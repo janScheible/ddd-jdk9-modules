@@ -1,6 +1,8 @@
 # ddd-jdk9-modules
 Domain Driven Design meets Java 9 modularization.
 
+![DDD Java 9 Modules Overview](ddd-jdk9-modules-overview.png)
+
 ## DDD Java 9 Module Links
 
 - https://stackoverflow.com/questions/39771709/java-9-module-and-double-dispatch-in-ddd
